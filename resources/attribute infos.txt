@@ -1,0 +1,43 @@
+"SC_AGE_YEARS": "Child's Age (0-17)(yr)", 
+
+"SC_SEX": "Child's Sex (1. male | 2. female)", 
+
+"MOMAGE": "Age of Mother (age of the mother when this child was born)(yr)", 
+
+"ALLERGIES": "Allergies (1. yes | 2. no)",
+
+"ARTHRITIS": "Arthritis (1. yes | 2. no)",
+
+"K2Q40A": "Asthma (1. yes | 2. no)",
+
+"K2Q46A": "Brain Injury (1. yes | 2. no)",
+
+"HEADACHE": "Headaches (1. yes | 2. no)",
+
+"K2Q33A": "Anxiety (1. yes | 2. no)",
+
+"K2Q32A": "Depression (1. yes | 2. no)",
+
+"CURRCOV": "Health Insurance Coverage (1. yes | 2. no)",
+
+"ACE9": "Lived with Anyone with Alcohol/Drug Problem (1. yes | 2. no)",
+
+"SC_RACER": "Child's Race (1. White | 2. Black | 3. Other)",
+
+"FAMILY_R": "Family Structure (1. Two biogical/adoptive parents, currently married | 2. Two biogical/adoptive parents, not currently married | 3. Two parents (at least one not biological/adoptive), currently married | 4. Two parents (at least one not biological/adoptive), not currently married | 5. Single mother | 6. Single father | 7. Grandparent household | 8. Other relation)",
+
+"Mother's Education": "??", => 'A1_SEX', 'A2_SEX', 'A1_RELATION', 'A2_RELATION', 'A1_GRADE', 'A2_GRADE', 'HIGRADE'
+[1 = Less than high school
+2 = High school
+3 = More than high school]
+
+"BIRTHWT_VL": "Very Low Birth Weight (weight <1.5 kg) (1. yes | 2. no)",
+
+"BIRTHWT_L": "Low Birth Weight (weight <2.5 kg) (1. yes | 2. no)",
+
+"K2Q05": "Premature Birth (child born more than 3 weeks before due date) (1. yes | 2. no)",
+
+"Poverty": "Poverty Level", => 'FPL_IF', 'FPL_I1', 'FPL_I2', 'FPL_I3', 'FPL_I4', 'FPL_I5', 'FPL_I6' (1. <200% | 2 >= 200%)
+
+"K2Q31A": "ADD/ADHD (1. yes | 2. no)"
+
